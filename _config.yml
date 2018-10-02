@@ -40,7 +40,7 @@ email: your-email@example.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://esther9998.github.io/" # the base hostname & protocol for your site
 
 # Social settings
@@ -56,7 +56,7 @@ slack_url:
 dribbble_url:
 
 # Google Analytics Tracking ID goes here:
-google_analytics:"UA-125328692-1"
+google_analytics:UA-125328692-1
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote-theme: esther9998/jekyll-theme-prologue
